@@ -11,7 +11,7 @@ The aim of this project is to:
 
 **Data:** https://drive.google.com/file/d/1rkJpU1syooFImwFBKh5TVthVqPYBI8ps/view
 
-**What I’ve Done:**
+**What I have done:**
 - Data Preparation and Preprocessing:
 Described the dataset, including types of columns, value ranges, and data coverage.
 Cleaned the dataset by normalizing data, removing duplicates, handling missing values, and converting columns to the correct data types.
